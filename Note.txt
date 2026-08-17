@@ -1,0 +1,1 @@
+Its connected to my drive. So its database get updated as I remove or add files. Its continuous sync
